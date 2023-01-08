@@ -1,0 +1,91 @@
+{
+  "rpart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "rpart2": {
+    "mark": 0,
+    "comment": "Program ran and output matched."
+  },
+  "ripart1": {
+    "mark": 0,
+    "comment": "Program ran and output matched."
+  },
+  "ripart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "ipart1": {
+    "mark": 24,
+    "comment": "Program ran and output matched."
+  },
+  "ipart2": {
+    "mark": 24,
+    "comment": "Program ran and output matched."
+  },
+  "spart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "spart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "sbpart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "sbpart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "upart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "upart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "ujpart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "ujpart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "macpart1": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "macpart2": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "accpart1": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "accpart2": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "geppart1": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "geppart2": {
+    "mark": 15,
+    "comment": "Program ran and output matched."
+  },
+  "allpart1": {
+    "mark": 90,
+    "comment": "Program ran and output matched."
+  },
+  "allpart2": {
+    "mark": 90,
+    "comment": "Program ran and output matched."
+  },
+  "userid": "GithubID:assignment-2-AndyLiu314"
+}

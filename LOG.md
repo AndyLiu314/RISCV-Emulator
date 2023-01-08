@@ -1,0 +1,181 @@
+## ********************FAILED********************
+
+****************************************
+## ********************SUCCESS********************
+### *****./riscv -d ./code/input/R/R.input > ./code/out/R/R.solution*****
+ ```
+```
+### *****diff ./code/out/R/R.solution ./code/ref/R/R.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r ./code/input/R/R.input > ./code/out/R/R.trace*****
+ ```
+```
+### *****diff ./code/out/R/R.trace ./code/ref/R/R.trace*****
+ ```
+```
+### *****./riscv -d ./code/input/Ri/Ri.input > ./code/out/Ri/Ri.solution*****
+ ```
+```
+### *****diff ./code/out/Ri/Ri.solution ./code/ref/Ri/Ri.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r -v ./code/input/Ri/Ri.input > ./code/out/Ri/Ri.trace*****
+ ```
+```
+### *****diff ./code/out/Ri/Ri.trace ./code/ref/Ri/Ri.trace*****
+ ```
+```
+### *****./riscv -d ./code/input/I/I.input > ./code/out/I/I.solution*****
+ ```
+```
+### *****diff ./code/out/I/I.solution ./code/ref/I/I.solution*****
+ ```
+```
+### *****./riscv -d ./code/input/I/L.input > ./code/out/I/L.solution*****
+ ```
+```
+### *****diff ./code/out/I/L.solution ./code/ref/I/L.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r ./code/input/I/I.input > ./code/out/I/I.trace*****
+ ```
+```
+### *****diff ./code/out/I/I.trace ./code/ref/I/I.trace*****
+ ```
+```
+### *****timeout 60 ./riscv -r ./code/input/I/L.input > ./code/out/I/L.trace*****
+ ```
+```
+### *****diff ./code/out/I/L.trace ./code/ref/I/L.trace*****
+ ```
+```
+### *****./riscv -d ./code/input/S/S.input > ./code/out/S/S.solution*****
+ ```
+```
+### *****diff ./code/out/S/S.solution ./code/ref/S/S.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r ./code/input/S/S.input > ./code/out/S/S.trace*****
+ ```
+```
+### *****diff ./code/out/S/S.trace ./code/ref/S/S.trace*****
+ ```
+```
+### *****./riscv -d ./code/input/SB/SB.input > ./code/out/SB/SB.solution*****
+ ```
+```
+### *****diff ./code/out/SB/SB.solution ./code/ref/SB/SB.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r ./code/input/SB/SB.input > ./code/out/SB/SB.trace*****
+ ```
+```
+### *****diff ./code/out/SB/SB.trace ./code/ref/SB/SB.trace*****
+ ```
+```
+### *****./riscv -d ./code/input/U/U.input > ./code/out/U/U.solution*****
+ ```
+```
+### *****diff ./code/out/U/U.solution ./code/ref/U/U.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r ./code/input/U/U.input > ./code/out/U/U.trace*****
+ ```
+```
+### *****diff ./code/out/U/U.trace ./code/ref/U/U.trace*****
+ ```
+```
+### *****./riscv -d ./code/input/UJ/UJ.input > ./code/out/UJ/UJ.solution*****
+ ```
+```
+### *****diff ./code/out/UJ/UJ.solution ./code/ref/UJ/UJ.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r ./code/input/UJ/UJ.input > ./code/out/UJ/UJ.trace*****
+ ```
+```
+### *****diff ./code/out/UJ/UJ.trace ./code/ref/UJ/UJ.trace*****
+ ```
+```
+### *****./riscv -d ./code/input/custom_mac.input > ./code/out/custom_mac.solution*****
+ ```
+```
+### *****diff ./code/out/custom_mac.solution ./code/ref/custom_mac.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r ./code/input/custom_mac.input > ./code/out/custom_mac.trace*****
+ ```
+```
+### *****diff ./code/out/custom_mac.trace ./code/ref/custom_mac.trace*****
+ ```
+```
+### *****./riscv -d ./code/input/custom_acc.input > ./code/out/custom_acc.solution*****
+ ```
+```
+### *****diff ./code/out/custom_acc.solution ./code/ref/custom_acc.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r ./code/input/custom_acc.input > ./code/out/custom_acc.trace*****
+ ```
+```
+### *****diff ./code/out/custom_acc.trace ./code/ref/custom_acc.trace*****
+ ```
+```
+### *****./riscv -d ./code/input/custom_gep.input > ./code/out/custom_gep.solution*****
+ ```
+```
+### *****diff ./code/out/custom_gep.solution ./code/ref/custom_gep.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r ./code/input/custom_gep.input > ./code/out/custom_gep.trace*****
+ ```
+```
+### *****diff ./code/out/custom_gep.trace ./code/ref/custom_gep.trace*****
+ ```
+```
+### *****./riscv -d ./code/input/simple.input > ./code/out/simple.solution*****
+ ```
+```
+### *****diff ./code/out/simple.solution ./code/ref/simple.solution*****
+ ```
+```
+### *****./riscv -d ./code/input/multiply.input > ./code/out/multiply.solution*****
+ ```
+```
+### *****diff ./code/out/multiply.solution ./code/ref/multiply.solution*****
+ ```
+```
+### *****./riscv -d ./code/input/random.input > ./code/out/random.solution*****
+ ```
+```
+### *****diff ./code/out/random.solution ./code/ref/random.solution*****
+ ```
+```
+### *****timeout 60 ./riscv -r -e ./code/input/simple.input > ./code/out/simple.trace*****
+ ```
+```
+### *****python3 part2_tester.py simple*****
+ ```
+Starting simple test
+simple test has passed.
+
+```
+### *****timeout 60 ./riscv -r -e ./code/input/multiply.input > ./code/out/multiply.trace*****
+ ```
+```
+### *****python3 part2_tester.py multiply*****
+ ```
+Starting multiply test
+multiply test has passed.
+
+```
+### *****timeout 60 ./riscv -r -e ./code/input/random.input > ./code/out/random.trace*****
+ ```
+```
+### *****python3 part2_tester.py random*****
+ ```
+Starting random test
+random test has passed.
+
+```
